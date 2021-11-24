@@ -1,0 +1,13 @@
+TCP IP - Transmission Control Protocol/ Internet Protocol
+OSI is conceptual
+TCP/IP was Implemented
+Application - FTP, DNS, TLS/SSL, POP3, Telnet, SMTP
+Transport - TCP, UDP and Ports
+Network Interface - Ethernet, Token Ring
+Address Resolution Protocol  (ARP) - Resolve IP address to MAC Addresses, arp -a
+RARP - Opposite of ARP
+Internet Protocol - OSI Layer 3 Protocol, send data packets though the internet
+ICMP - Error Reporting Protocol
+TCP/IP has 65536 Ports available
+TCP - Connection oriented (Transport Layer)
+UDP - Connectionless (Transport Layer)
