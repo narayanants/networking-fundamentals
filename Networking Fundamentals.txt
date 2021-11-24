@@ -1,0 +1,31 @@
+Communication Protocols
+IP and Mac Addresses
+Peer to Peer = Decentralized
+Client Server = Centralized
+Computer Networking Protocols
+Protocols are rules how computers exchange data and enable effective communication
+OSI Models - Upper Layers + Lower Layers
+Media Access Card (MAC) Addresses - Physical address of the network adapter card
+IP address - Uniquely identify a device on an IP Network
+Mac Addresses - Layer 2 of OSI
+IP addresses - Layer 3 of OSI
+Half Duplex - send and receive data but not at the same time
+Full Duplex - opposite of half duplex
+Unicast - one to one
+Multicast - One to many
+Broadcast - One to All
+Physical Topologies - Placement and connection of network devices
+Logical Topologies - How data flows through the network
+Wired Topologies - Bus, Ring, Star, Mesh
+Wireless Topologies - Wifi
+Network Interface Card - NIC
+Hubs - No longer used, legacy
+Switches - Address of devices inside MAC Address Table, Operates at Layer 2 of OSI
+Router - Connect different networks together, use IP addresses, Layer 3 of OSI
+Modem - modulate one signal to another
+SOHO - Small office home office, All in one wireless Router
+Firewalls - Protects your network from Malicious Network Activity, Network(hardware) and Host(Software) based Firewall
+DHCP Servers - Dynamic Host Config Protocol, Auto assign IP address on IP network
+Protocols - Rule how we exchange data back and forth
+Port - Unique port number to a protocol
+Sockets - Combination of Port numbers and IP addresses
