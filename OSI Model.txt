@@ -1,0 +1,7 @@
+Application Layer - HTTP,HTTPS, SSH, Telnet, SMTP
+Presentation layer - Format data flowing through, data encryption and decryption, HTML, PNG, JPEG
+Session Layer - Setting up and managing session between Network Devices, Simplex, Half Duplex, Full Duplex
+Transport layer - Post Office Layer, TCP(Transmission Control Protocol), UDP(User Datagram Protocol), Segments data and reassembles correctly, Buffering, Windowing
+Network Layer - Routing Layer, Places two Ips in a packet(source and destination), IPv4 and IPv6 
+Data Link Layer - Switching Layer, packing data frames for Physical Layer, Logical Link Control Layer, Media Access Control Layer
+Physical Layer - physical and electrical medium for network communication, physical Topology, Binary Transmission of Data
