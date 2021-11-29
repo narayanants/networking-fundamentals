@@ -11,3 +11,18 @@ ICMP - Error Reporting Protocol
 TCP/IP has 65536 Ports available
 TCP - Connection oriented (Transport Layer)
 UDP - Connectionless (Transport Layer)
+Domain Name System (DNS) - Protocol that is used to resolve Domain name to IP addresses, uses Port 53
+Dynamic Host Config Protocol (DHCP) - Auto assign IP addresses to Devices on a network, Port 67,68
+Network Time Protocol (NTP)- syncs systems time to network time server, port - 123
+Simple Network Management protocol (SNMP) - Monitor and manage network devices, port 161
+Lightweight Active Directory Protocol (LDAP) - protocol to query and access directory service systems, port 389
+Server Message Block Protocol (SMB) - used in Microsoft env, allows systems to share files and printers to other systems, port 445
+Telnet - connect insecurely to a remote host, port 23
+Secure Shell (SSH) - securely connect to a remote host, port 22
+Remote Desktop Protocol (RDP) - control a remote computer from a Microsoft host, port 3389
+File Transfer Protocol (FTP) - Port 20 (Data Transfer), 21 (Commands)
+Secure File Transfer Protocol (SFTP) - Uses SSH for transferring files (Port 22)
+Simple mail Transfer Protocol (SMTP) - send email from source to destination, port 25
+Post Office Protocol (POP3) - Retrieve emails from email server, Port 110
+Hyper Text Transfer Protocol  (HTTP) - Port 80
+HTTPS - Port 443
