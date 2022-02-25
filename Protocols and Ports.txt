@@ -1,3 +1,6 @@
+Protocol and Ports:
+-------------------
+
 DNS - 53
 DHCP - 67, 68
 NTP - 123
