@@ -1,3 +1,6 @@
+OSI Model:
+-----------
+
 Application Layer - HTTP,HTTPS, SSH, Telnet, SMTP
 Presentation layer - Format data flowing through, data encryption and decryption, HTML, PNG, JPEG
 Session Layer - Setting up and managing session between Network Devices, Simplex, Half Duplex, Full Duplex
